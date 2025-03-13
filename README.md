@@ -36,5 +36,7 @@ Veri tabanına bağlanabilmek için :
          id kolonu PRİMARY KEY ve auto-increment olmalıdır.
          Bu tabloda patient_id ve doctor_id foreign key olmalıdır.
 
+Tablolar oluşturuldu ve ilişkiler başarıyla kuruldu
+<img width="796" alt="Ekran Resmi 2025-03-14 02 09 01" src="https://github.com/user-attachments/assets/d0bf4fec-596f-497d-aa57-3218b882ff89" />
 
 
